@@ -1,0 +1,17 @@
+/* 
+CSS FILE FOR SITEMAP BREADCRUMBS
+Written by: Daniel Viglietti
+Date: September 16th, 2020
+This is not my code and is sourced from: https://www.jqueryscript.net/menu/jQuery-Plugin-To-Generate-Breadcrumbs-From-A-Sitemap.html
+*/
+
+#breadcrumbs li {
+  display: inline-block;
+}
+#breadcrumbs li:not(:first-child) {
+  margin-left: 0.4em;
+}
+#breadcrumbs li:not(:first-child):before {
+  content: '>';
+  margin-right: 0.4em;
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "FirstName": "Administrator",
+        "LastName": "Account",
+        "Email": "admin",
+        "Password": "T3est!6",
+        "Address": "False Account made for easy managing of site.",
+        "Length": "ongoing",
+        "Age": "16",
+        "Referral": "Yes"
+    },
+    {
+        "FirstName": "George",
+        "LastName": "Costanza",
+        "Email": "glcostanza@gmail.com",
+        "Password": "Geo!rge34",
+        "Address": "Address Not Provided",
+        "Length": "ongoing",
+        "Age": "57",
+        "Referral": "No"
+    },
+    {
+        "FirstName": "Kimmy",
+        "LastName": "Schmidt",
+        "Email": "kimmy@netflix.com",
+        "Password": "K!mmy3",
+        "Address": "Address Not Provided",
+        "Length": "ongoing",
+        "Age": "37",
+        "Referral": "No"
+    },
+    {
+        "FirstName": "John",
+        "LastName": "Smith",
+        "Email": "jsmith@hotmail.net.au",
+        "Password": "Mal!bu90210",
+        "Address": "Address Not Provided",
+        "Length": "3mths",
+        "Age": "46",
+        "Referral": "Yes"
+    },
+    {
+        "FirstName": "Daniel",
+        "LastName": "Viglietti",
+        "Email": "s3844180@student.rmit.edu.au",
+        "Password": "ILike!Programming1",
+        "Address": "Address Not Provided",
+        "Length": "3mths",
+        "Age": "19",
+        "Referral": "Yes"
+    },
+    {
+        "FirstName": "Scarlett",
+        "LastName": "Brady",
+        "Email": "sbradys@erinsmail.com",
+        "Password": "Money!3",
+        "Address": "22 Ramsay Street, Erinsborough",
+        "Length": "3mths",
+        "Age": "32",
+        "Referral": "Yes"
+    },
+    {
+        "FirstName": "Roxy",
+        "LastName": "Willis",
+        "Email": "roxy.willis@mail.com.au",
+        "Password": "Test!3",
+        "Address": "Address Not Provided",
+        "Length": "3mths",
+        "Age": "35",
+        "Referral": "Yes"
+    },
+    {
+        "FirstName": "Sidney",
+        "LastName": "Prescott",
+        "Email": "sprescott@woodsboromail.com.au",
+        "Password": "Mov!e0",
+        "Address": "23 Smith Street, Woodsboro",
+        "Length": "6mths",
+        "Age": "44",
+        "Referral": "Yes"
+    },
+    {
+        "FirstName": "Karl",
+        "LastName": "Kennedy",
+        "Email": "karlkennedy@erinsboroughhospital.com",
+        "Password": "Hosp!tal1",
+        "Address": "28 Ramsay Street, Erinsborough",
+        "Length": "3mths",
+        "Age": "57",
+        "Referral": "Yes"
+    },
+    {
+        "FirstName": "Julian",
+        "LastName": "Viglietti",
+        "Email": "julianv@mail.com",
+        "Password": "Money!3",
+        "Address": "Address Not Provided",
+        "Length": "3mths",
+        "Age": "37",
+        "Referral": "Yes"
+    },
+    {
+        "FirstName": "John",
+        "LastName": "Doe",
+        "Email": "jdoe@test.com",
+        "Password": "T3est!5",
+        "Address": "Address Not Provided",
+        "Length": "ongoing",
+        "Age": "38",
+        "Referral": "Yes"
+    },
+    {
+        "FirstName": "Test",
+        "LastName": "User",
+        "Email": "testuser@testuser.com",
+        "Password": "T3est!6",
+        "Address": "Test user after I changed JSON permissions",
+        "Length": "ongoing",
+        "Age": "24",
+        "Referral": "Yes"
+    }
+]

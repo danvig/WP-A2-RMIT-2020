@@ -1,0 +1,120 @@
+{
+    "admin": [
+        {
+            "Date": "23\/09\/2020",
+            "ExerciseType": "Walking",
+            "CaloriesBurned": "200",
+            "DistanceTravelled": "25",
+            "TimeTravelled": "02:00",
+            "Weight": 70,
+            "BMI": "25",
+            "DailyDistanceGoal": 30
+        },
+        {
+            "Date": "24\/09\/2020",
+            "ExerciseType": "Dog Walking",
+            "CaloriesBurned": "150",
+            "DistanceTravelled": "30",
+            "TimeTravelled": "02:21",
+            "Weight": 75,
+            "BMI": "22",
+            "DailyDistanceGoal": 25
+        },
+        {
+            "Date": "24\/09\/2020",
+            "ExerciseType": "Walking",
+            "CaloriesBurned": "200",
+            "DistanceTravelled": "40",
+            "TimeTravelled": "02:36",
+            "Weight": 75,
+            "BMI": "22",
+            "DailyDistanceGoal": 25
+        },
+        {
+            "Date": "24\/09\/2020",
+            "ExerciseType": "Dog Walking",
+            "CaloriesBurned": "300",
+            "DistanceTravelled": "45",
+            "TimeTravelled": "04:01",
+            "Weight": 79,
+            "BMI": "22.3",
+            "DailyDistanceGoal": 30
+        },
+        {
+            "Date": "24\/09\/2020",
+            "ExerciseType": "Cycling",
+            "CaloriesBurned": "150",
+            "DistanceTravelled": "20",
+            "TimeTravelled": "01:29",
+            "Weight": 75,
+            "BMI": "23.1",
+            "DailyDistanceGoal": 20
+        },
+        {
+            "Date": "24\/09\/2020",
+            "ExerciseType": "Running",
+            "CaloriesBurned": "250",
+            "DistanceTravelled": "50",
+            "TimeTravelled": "03:30",
+            "Weight": 72,
+            "BMI": "22.1",
+            "DailyDistanceGoal": 30
+        },
+        {
+            "Date": "24\/09\/2020",
+            "ExerciseType": "Dog Walking",
+            "CaloriesBurned": "50",
+            "DistanceTravelled": "10",
+            "TimeTravelled": "00:35",
+            "Weight": 73,
+            "BMI": "21.1",
+            "DailyDistanceGoal": 20
+        },
+        {
+            "Date": "06\/10\/2020",
+            "ExerciseType": "Dog Walking",
+            "CaloriesBurned": "200",
+            "DistanceTravelled": "25",
+            "TimeTravelled": "01:20",
+            "Weight": 75,
+            "BMI": "",
+            "DailyDistanceGoal": 20
+        }
+    ],
+    "julianv@mail.com": [
+        {
+            "Date": "23\/09\/2020",
+            "ExerciseType": "Walking",
+            "CaloriesBurned": "250",
+            "DistanceTravelled": "29",
+            "TimeTravelled": "01:29",
+            "Weight": 75,
+            "BMI": "22.1",
+            "DailyDistanceGoal": 25
+        }
+    ],
+    "jdoe@test.com": [
+        {
+            "Date": "06\/10\/2020",
+            "ExerciseType": "Dog Walking",
+            "CaloriesBurned": "400",
+            "DistanceTravelled": "30",
+            "TimeTravelled": "02:55",
+            "Weight": 67,
+            "BMI": "22.1",
+            "DailyDistanceGoal": 20
+        }
+    ],
+    "testuser@testuser.com": [
+        {
+            "Date": "08\/10\/2020",
+            "ExerciseType": "Walking",
+            "CaloriesBurned": "250",
+            "DistanceTravelled": "20",
+            "TimeTravelled": "01:20",
+            "Weight": 75,
+            "BMI": "25.6",
+            "DailyDistanceGoal": 15
+        }
+    ]
+}

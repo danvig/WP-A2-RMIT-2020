@@ -1,0 +1,73 @@
+/* CSS for Logbook */
+/* Date: September 23rd, 2020 */
+
+/* Set Backgrounds and Styles for each day for recommended exercise */
+/* Parent Column */
+.columns-parent {
+    display: table;
+    width: 100%;
+}
+
+/* Heading */
+.exercisehead 
+{
+    background-color: #3C728B;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+/* Monday Column */
+.monday 
+{
+    background-color: #FF865E;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+/* Tuesday Column */
+.tuesday 
+{
+    background-color: #7E8AE5;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+/* Wednesday Column */
+.wednesday 
+{
+    background-color: #65C880;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+/* Thursday Column */
+.thursday 
+{
+    background-color: #42BEDD;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+/* Friday Column */
+.friday 
+{
+    background-color: #FAC24E;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+/* Calendar Column */
+.calendar
+{
+    background-color: #7E8AE5;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    font-size: 16px;
+}

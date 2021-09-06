@@ -1,0 +1,20 @@
+/* 
+SEARCH BAR CSS FOR MYFITNESS
+Written by: Daniel Viglietti
+Date: September 17th, 2020
+Not all code is original and resources are provided within the file 
+*/
+
+#result {
+  position: absolute;
+  width: 100%;
+  max-width:870px;
+  cursor: pointer;
+  overflow-y: auto;
+  max-height: 400px;
+  box-sizing: border-box;
+  z-index: 1001;
+ }
+ .link-class:hover{
+  background-color:#f1f1f1;
+ }

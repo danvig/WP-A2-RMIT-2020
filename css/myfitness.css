@@ -1,0 +1,15 @@
+/* CSS for myFitness
+Date: September 3rd, 2020 */
+
+.main-container {
+    background: #F8F9FA;
+}
+
+.bg-dark {
+    background: #343A40;
+}
+
+.footer-text {
+    color: white;
+    font: arial;
+}
